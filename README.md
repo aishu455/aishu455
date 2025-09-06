@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aishwarya
 - 👀 I’m interested in ML and Deep learning
-- 🌱 I’m currently Working as a Deep learning intern 
+- 🌱 I’m currently Working as a Data Scientist 
 - 📫 How to reach me : My mail id : aishwaryawalkar599@gmail.com
 
 <!---
